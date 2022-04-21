@@ -44,7 +44,7 @@ SPEND POINTS
 curl --header "Content-Type: application/json" --request POST --data '{ "points": 5000 }' http://localhost:8080/user/points
 ```
 
-GET USER'S POINTS BALANCE
+GET USER BALANCE
 
 `GET /user/balance`
 
